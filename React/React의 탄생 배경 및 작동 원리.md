@@ -92,4 +92,4 @@
 - [리액트의 탄생배경과 핵심 개념 - soldonii](https://soldonii.tistory.com/100)
 - [[React] 웹 동작 과정과 React의 탄생 - junoflog](https://velog.io/@juno7803/React%EA%B0%80-%ED%83%9C%EC%96%B4%EB%82%9C-%EB%B0%B0%EA%B2%BD)
 
-### [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://billili.tistory.com/3)
+### [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/React-%EB%84%8C-%EC%96%B4%EB%94%94%EC%84%9C-%EC%99%94%EB%8B%88)
