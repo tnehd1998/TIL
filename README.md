@@ -1,5 +1,9 @@
 ## Today I Learned 🧐
 
+## JavaScript
+
+- [JavaScript, 그 내부는?](https://github.com/tnehd1998/TIL/blob/main/JavaScript/JavaScript%2C%20%EA%B7%B8%20%EB%82%B4%EB%B6%80%EB%8A%94%3F.md)
+
 ### React
 
 - [React, 넌 어디서 왔니?](https://github.com/tnehd1998/TIL/blob/main/React/React%EC%9D%98%20%ED%83%84%EC%83%9D%20%EB%B0%B0%EA%B2%BD%20%EB%B0%8F%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
