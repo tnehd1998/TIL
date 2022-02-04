@@ -14,3 +14,4 @@
 
 - [개발자의 글쓰기](https://github.com/tnehd1998/TIL/blob/main/Books/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EA%B8%80%EC%93%B0%EA%B8%B0.md)
 - [함께 자라기](https://github.com/tnehd1998/TIL/blob/main/Books/%ED%95%A8%EA%BB%98%20%EC%9E%90%EB%9D%BC%EA%B8%B0.md)
+- [인클루시브 디자인 패턴](https://github.com/tnehd1998/TIL/blob/main/Books/%EC%9D%B8%ED%81%B4%EB%A3%A8%EC%8B%9C%EB%B8%8C%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4.md)
