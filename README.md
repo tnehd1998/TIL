@@ -1,8 +1,12 @@
 ## Today I Learned 🧐
 
-## JavaScript
+### JavaScript
 
 - [JavaScript, 그 내부는?](https://github.com/tnehd1998/TIL/blob/main/JavaScript/JavaScript%2C%20%EA%B7%B8%20%EB%82%B4%EB%B6%80%EB%8A%94%3F.md)
+
+### TypeScript
+
+- [tsconfig.json 내용 정리](https://github.com/tnehd1998/TIL/blob/main/TypeScript/tsconfig.json%20%EB%82%B4%EC%9A%A9%20%EC%A0%95%EB%A6%AC.md)
 
 ### React
 
