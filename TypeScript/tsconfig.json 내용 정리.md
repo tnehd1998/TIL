@@ -232,3 +232,5 @@ tsconfig.json에는 어떤 옵션들이 존재하는지 궁금해졌다.
 ### forceConsistentCasingInFileNames
 
 - 일관되지 않는 참조의 허용 유무
+
+### [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/tsconfig.json-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC)

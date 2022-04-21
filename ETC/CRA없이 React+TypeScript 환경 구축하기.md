@@ -347,3 +347,5 @@ Webpack에 많은 기능들이 존재하며
 
 잘만 활용한다면 효율적으로
 작업 환경을 구축할 수 있을것 같다는 생각이 들었다.
+
+### [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/CRA%EC%97%86%EC%9D%B4-ReactTypeScript-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
