@@ -19,6 +19,7 @@
 
 - [주소창에 www.google.com을 입력했을 때 일어나는 과정](https://github.com/tnehd1998/TIL/blob/main/Network/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90%20www.google.com%EC%9D%84%20%EC%9E%85%EB%A0%A5%ED%96%88%EC%9D%84%20%EB%95%8C%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EA%B3%BC%EC%A0%95.md)
 - [OSI 7 Layer, TCP/IP 4 Layer](https://github.com/tnehd1998/TIL/blob/main/Network/OSI%207%20Layer%2C%20TCP%20IP%204%20Layer.md)
+- [TCP vs UDP](https://github.com/tnehd1998/TIL/blob/main/Network/TCP%20vs%20UDP.md)
 
 ### Books
 
