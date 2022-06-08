@@ -1,6 +1,4 @@
-# TCP vs UDP
-
-## TCP, UDP란?
+# TCP, UDP란?
 
 네트워크를 구성하는 OSI 7계층 중, 4계층에 속하는 전송 계층에서 사용되는 프로토콜이다.
 
@@ -8,13 +6,13 @@
 
 전송 계층에서 데이터를 보내기 위해 사용되는 두 프로토콜이 TCP와 UDP다.
 
-## TCP
+# TCP
 
 인터넷 상에서 데이터를 메세지 형태로 보내기 위해 3계층의 IP와 함께 사용하는 프로토콜이다.
 
 연속성보다 신뢰성있는 전송이 중요할 때 사용되는 프로토콜
 
-### TCP의 특징
+## TCP의 특징
 
 1. 연결형 서비스로 연결이 성공해야 통신이 가능합니다.
 2. 3-way handshake 과정을 통해 연결을 하고, 4-way handshake를 통해 연결을 해제합니다.
@@ -26,7 +24,7 @@
 5. UDP보다 속도가 느리다
 6. 전이중 (Full-Duplex), 점대점(Point to Point) 방식
 
-### TCP의 연결 및 해제 방식
+## TCP의 연결 및 해제 방식
 
 TCP는 3 way handshake를 통해 연결하고, 4 way handshake를 통해 연결을 해제합니다.
 
@@ -45,7 +43,7 @@ TCP는 3 way handshake를 통해 연결하고, 4 way handshake를 통해 연결�
   - 만약, Client에서 세션을 종료시킨 뒤 도착하는 패킷이 있다면 해당 패킷은 Drop되고 데이터는 유실되게 됩니다.
   - 이러한 현상을 위해 Client는 Server로부터 FIN을 수신하더라도 일정시간동안 세션을 남겨놓고 잉여 패킷을 기다리는 TIME_WAIT과정을 마지막으로 거치게 됩니다.
 
-## UDP
+# UDP
 
 전송계층의 비연결 지향적 프로토콜
 
@@ -53,7 +51,7 @@ TCP는 3 way handshake를 통해 연결하고, 4 way handshake를 통해 연결�
 
 비연결 지향적이라는 특징 덕분에 빠른 전송을 할 수 있지만 데이터 전달의 신뢰성은 매우 떨어집니다.
 
-### UDP의 특징
+## UDP의 특징
 
 1. 비연결형 서비스로 연결 없이 통신이 가능하며 데이터그램 방식을 제공한다.
 2. 정보를 주고 받을 때, 신호 절차를 거치지 않는다.
@@ -61,22 +59,22 @@ TCP는 3 way handshake를 통해 연결하고, 4 way handshake를 통해 연결�
 4. 패킷 오버헤드가 적어 네트워크 과부화가 감소된다.
 5. TCP보다 전송속도가 빠르다.
 
-### UDP의 연결 방식
+## UDP의 연결 방식
 
 1. 서버에서 클라이언트에 데이터 요청을 보낸다.
 2. 클라이언트는 계속해서 서버에 데이터를 전송한다.
 
-## TCP, UDP의 한줄 요약
+# TCP, UDP의 한줄 요약
 
 - TCP : 연속성, 속도보다 신뢰성있는 전송이 더 중요할 때 사용한다.
 - UDP : 신뢰성보다 연속성, 속도가 더 중요할 때 사용한다.
   - Ex) 실시간 스트리밍 서비스
 
-## 참고한 자료
+# 참고한 자료
 
 - [https://mangkyu.tistory.com/15](https://mangkyu.tistory.com/15)
 - [https://livlikwav.github.io/study/tcp-and-udp/](https://livlikwav.github.io/study/tcp-and-udp/)
 - [https://coding-factory.tistory.com/614](https://coding-factory.tistory.com/614)
 - [https://www.youtube.com/watch?v=ikDVGYp5dhg](https://www.youtube.com/watch?v=ikDVGYp5dhg)
 
-### [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/TCP-vs-UDP)
+## [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/TCP-vs-UDP)

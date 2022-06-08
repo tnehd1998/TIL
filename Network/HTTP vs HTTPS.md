@@ -1,5 +1,3 @@
-# HTTP vs HTTPS
-
 # HTTP란?
 
 HTTP는 HyperText Transfer Protocol를 의미하며, 말 그대로 클라이언트와 서버가 지정한 모델에 따라 데이터를 주고 받기 위해 사용되는 프로토콜입니다.
@@ -110,6 +108,7 @@ SSL/TLS Handshake를 통해 연결이 진행됩니다.
 4. Client에서 Server의 SSL 인증서를 검증합니다.
 
    - 서버에서 보낸 SSL 인증서에 대한 검증을 하는 단계입니다.
+
      - SSL 인증서 검증 원리
        1. 클라이언트는 인증서를 발급한 인증기관(CA)의 public key를 찾는다.
        2. 찾은 public key를 이용해 SSL 인증서를 복호화한다.
@@ -139,3 +138,5 @@ SSL/TLS Handshake를 통해 연결이 진행됩니다.
 - [https://brunch.co.kr/@hyoi0303/10](https://brunch.co.kr/@hyoi0303/10)
 - [https://nuritech.tistory.com/25](https://nuritech.tistory.com/25)
 - [https://run-it.tistory.com/30](https://run-it.tistory.com/30)
+
+### [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/HTTP-vs-HTTPS)
