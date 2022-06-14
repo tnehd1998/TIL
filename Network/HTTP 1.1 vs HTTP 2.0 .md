@@ -258,3 +258,5 @@ HTTP 2.0은 클라이언트가 요청하기 전에
 - [https://jins-dev.tistory.com/entry/HTTP11-의-HTTP-Pipelining-과-Persistent-Connection-에-대하여](https://jins-dev.tistory.com/entry/HTTP11-%EC%9D%98-HTTP-Pipelining-%EA%B3%BC-Persistent-Connection-%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 - [https://www.popit.kr/나만-모르고-있던-http2/ 출처: https://ijbgo.tistory.com/26 [한량 개발자:티스토리]](https://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/%20%EC%B6%9C%EC%B2%98:%20https://ijbgo.tistory.com/26%20%5B%ED%95%9C%EB%9F%89%20%EA%B0%9C%EB%B0%9C%EC%9E%90:%ED%8B%B0%EC%8A%A4%ED%86%A0%EB%A6%AC%5D)
 - [https://ko.wikipedia.org/wiki/SPDY](https://ko.wikipedia.org/wiki/SPDY)
+
+## [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/HTTP-1.1-vs-HTTP-2.0)
