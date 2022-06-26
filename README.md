@@ -31,6 +31,7 @@
 - [TCP vs UDP](https://github.com/tnehd1998/TIL/blob/main/Network/TCP%20vs%20UDP.md)
 - [HTTP vs HTTPS](https://github.com/tnehd1998/TIL/blob/main/Network/HTTP%20vs%20HTTPS.md)
 - [HTTP 1.1 vs HTTP 2.0](https://github.com/tnehd1998/TIL/blob/main/Network/HTTP%201.1%20vs%20HTTP%202.0%20.md)
+- [HTTP 1.1 vs HTTP 2.0](https://github.com/tnehd1998/TIL/blob/main/Network/Cookie%20vs%20Session.md)
 
 ### Books
 

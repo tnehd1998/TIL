@@ -152,3 +152,5 @@ load-balancing 문제가 발생한다.
 - [https://interconnection.tistory.com/74](https://interconnection.tistory.com/74)
 - [https://nesoy.github.io/articles/2017-03/Session-Cookie](https://nesoy.github.io/articles/2017-03/Session-Cookie)
 - [https://hahahoho5915.tistory.com/32](https://hahahoho5915.tistory.com/32)
+
+### [테크 블로그에 그림과 함께 더 쉽게 풀어쓴 글](https://velog.io/@tnehd1998/Cookie-vs-Session)
